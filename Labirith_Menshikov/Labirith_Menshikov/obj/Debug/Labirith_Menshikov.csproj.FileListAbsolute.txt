@@ -1,0 +1,8 @@
+D:\Перенос на другой ПК\Курсы С#\Labirith_Menshikov\Labirith_Menshikov\bin\Debug\Labirith_Menshikov.exe.config
+D:\Перенос на другой ПК\Курсы С#\Labirith_Menshikov\Labirith_Menshikov\bin\Debug\Labirith_Menshikov.exe
+D:\Перенос на другой ПК\Курсы С#\Labirith_Menshikov\Labirith_Menshikov\bin\Debug\Labirith_Menshikov.pdb
+D:\Перенос на другой ПК\Курсы С#\Labirith_Menshikov\Labirith_Menshikov\obj\Debug\Labirith_Menshikov.csproj.AssemblyReference.cache
+D:\Перенос на другой ПК\Курсы С#\Labirith_Menshikov\Labirith_Menshikov\obj\Debug\Labirith_Menshikov.csproj.SuggestedBindingRedirects.cache
+D:\Перенос на другой ПК\Курсы С#\Labirith_Menshikov\Labirith_Menshikov\obj\Debug\Labirith_Menshikov.csproj.CoreCompileInputs.cache
+D:\Перенос на другой ПК\Курсы С#\Labirith_Menshikov\Labirith_Menshikov\obj\Debug\Labirith_Menshikov.exe
+D:\Перенос на другой ПК\Курсы С#\Labirith_Menshikov\Labirith_Menshikov\obj\Debug\Labirith_Menshikov.pdb
